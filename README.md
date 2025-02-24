@@ -2,22 +2,21 @@
 
 **joaovitorper/joaovitorper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Titulo 1- Para titulos principais
-Capítulo 1 - As Origens
+# Capítulo 1 - As Origens
 Meu nome é João, sou brasileiro naturalizado, nascido na cidade de Pindamonhangaba, no estado de São Paulo. Vim ao mundo na Santa Casa de Misericórdia de Pindamonhangaba, em dezembro de 2000.
 Meu nascimento foi prematuro, com apenas 1,3 kg, e permaneci no hospital até atingir 1,9 kg. Nos primeiros anos de vida, enfrentei desafios de saúde, especialmente entre os 5 anos de idade, quando comecei a ter convulsões frequentes, que ocorriam principalmente à noite. Sempre que sentia dor de cabeça, sabia que teria uma crise convulsiva.
 Felizmente, hoje, graças a Deus, já faz 12 anos que não preciso mais tomar medicamentos para controlar as crises. Antes, fazia uso contínuo de remédios para o controle dessas convulsões.
 Além disso, fiquei dois meses na incubadora, período no qual tive uma leve privação de oxigênio, o que acabou afetando meu lado direito do corpo. Fui diagnosticado com hemiparesia, uma condição que causa fraqueza ou paralisia parcial de um lado do corpo. Essa lesão ocorre devido a danos na área córtico-espinhal, região do cérebro responsável pelos movimentos dos músculos e membros.
 Ao longo dos anos, passei por vários médicos que acompanharam meu caso, incluindo Dr. Paulo Kanda, Dr. Alexandre Serafim, Dra. Valéria e Dr. Ricardo.
 
-# Titulo 1- Para titulos principais
-Capítulo 3 - Educação Escolar
+
+# Capítulo 3 - Educação Escolar
 Em 2009, comecei meus estudos na escola Arte Vida. Nos anos de 2010 e 2011, passei a estudar na Remef, onde permaneci durante boa parte da minha infância. Em 2013, iniciei o Ensino Fundamental II, cursando do 6º ao 9º ano, e concluí essa etapa em 2016.
 Logo depois, ingressei no Ensino Médio, aos 17 anos. Foi um período desafiador, pois enfrentei dificuldades acadêmicas e precisei de adaptações nas provas. Durante toda essa fase escolar, tive tempo extra para realizar os exames em sala de aula, o que me ajudou bastante a acompanhar o ritmo das atividades. Finalmente, concluí o Ensino Médio no final de 2019.
 Nossa colação de grau aconteceu em uma sexta-feira, dia 19 de dezembro de 2019, um dia antes da nossa formatura, que foi celebrada em 23 de dezembro de 2019. Infelizmente, perdemos todas as fotos desse momento tão especial, mas, felizmente, conseguimos recuperar algumas lembranças de outra forma.
 
-# Titulo 1- Para titulos principais
-Capítulo 4 - Viagem a Ubatuba
+
+# Capítulo 4 - Viagem a Ubatuba
 Neste capítulo, não falarei sobre como conheci o esporte, mas sim sobre a minha primeira viagem a Ubatuba.
 Eu tinha 12 anos quando fui para Ubatuba pela primeira vez. Durante essa viagem, passei por um susto: meu pai me jogou na perna da minha mãe e quase me afoguei, mas, felizmente, tudo acabou bem.
 Agora, 12 anos depois, retornei a Ubatuba aos 23 anos, desta vez acompanhado dos meus tios Tio Leco e Tia Bruna, além de Isabela, João Miguel, Vitória e Bianca. Ficamos hospedados na cidade por três dias e aproveitamos bastante.
@@ -25,9 +24,8 @@ Na sexta-feira, saímos de casa e chegamos em Ubatuba por volta de 00h10. Pegamo
 No sábado, fomos à Praia do Tenório junto com Odete e Bruno. Foi um dia incrível! Fiz minha primeira trilha, acompanhado de Vitória, Tia Bruna, Bruno e João. Também corri na praia, jogamos vôlei, futebol e truco—consegui ganhar algumas partidas, mas, como sempre, faz parte do jogo perder também! Além disso, entrei no mar e tirei algumas fotos no topo da trilha.
 Hoje, fomos à Praia de Ubatumirim. Aproveitamos o dia fazendo um churrasco, nos divertindo e curtindo cada momento juntos. Ontem à noite, ainda saímos para passear um pouco e foi muito legal viver essa experiência ao longo desses três dias.
 
-# Titulo 1- Para titulos principais
 
-Capítulo 5 - Como Eu Conheci o Esporte
+# Capítulo 5 - Como Eu Conheci o Esporte
 Antes de me dedicar totalmente à corrida, eu já praticava natação. No entanto, no final de 2022, precisei parar. Sempre gostei de correr, mas ainda não tinha muita técnica. No mesmo ano, saí do João do Pulo e entrei na assessoria LS Running, onde comecei a treinar corrida de forma mais estruturada.
 Primeiros Passos na Corrida
 Minha primeira corrida oficial aconteceu em 2014, quando eu tinha apenas 14 anos. A prova foi na Praça do Quartel, e lembro que já estava indo embora quando me chamaram para pegar o troféu de 2º colocado na categoria PCD. Esse foi um momento muito marcante para mim e me motivou a continuar no esporte.
@@ -43,8 +41,8 @@ Outro momento muito especial foi minha participação na 27ª Maratona Internaci
 
 
 
-# Titulo 1- Para titulos principais
-Capítulo 6 - Viagem para Poços de Caldas e Barra Mansa
+
+# Capítulo 6 - Viagem para Poços de Caldas e Barra Mansa
 Em 2022, aproveitei as férias para viajar para Poços de Caldas, Minas Gerais, e, logo depois, para Barra Mansa. Foram experiências incríveis, cheias de diversão, momentos especiais com a família e muitas recordações.
 
 Viagem para Poços de Caldas
